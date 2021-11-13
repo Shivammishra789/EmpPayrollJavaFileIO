@@ -1,12 +1,12 @@
 package com.javaio;
 
-public class EmployeePayroll {
+public class EmployeePayrollData {
 
 	private int  id;
 	private String name;
 	private double salary;
 	
-	public EmployeePayroll(int id, String name, double salary) {
+	public EmployeePayrollData(int id, String name, double salary) {
 		super();
 		this.id = id;
 		this.name = name;
